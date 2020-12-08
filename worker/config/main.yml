@@ -1,0 +1,11 @@
+connection:
+  access_token: NWZjZjcxNGYtYTE1Yy1hZDhkLWVkZTgtMDNmNS1iYjVkOWNlZDphMDg1ZjE2MC0zODk0LTExZWItOGJjZC01ZDNlMmQ1ZDc1NTQ=
+  master_host: apimation.com:9000
+worker:
+  type: loc
+  port: 9675
+  job_limit: 200
+  debug: false
+  dev: false
+  logOnlyToFile: true
+  log_path: C:\Users\mihaj\Apimation\worker\logs\worker
