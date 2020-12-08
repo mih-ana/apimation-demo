@@ -8,4 +8,5 @@ worker:
   debug: false
   dev: false
   logOnlyToFile: true
+
   log_path: C:\Users\mihaj\Apimation\worker\logs\worker
